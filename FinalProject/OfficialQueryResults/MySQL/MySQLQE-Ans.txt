@@ -1,0 +1,59 @@
+name	indepyear	GovernmentForm
+Algeria	1962	Early Republic
+Angola	1975	Modern Republic
+Benin	1960	Early Republic
+Botswana	1966	Early Republic
+British Indian Ocean Territory	NULL	n/a
+Burkina Faso	1960	Early Republic
+Burundi	1962	Early Republic
+Cameroon	1960	Early Republic
+Cape Verde	1975	Modern Republic
+Central African Republic	1960	Early Republic
+Chad	1960	Early Republic
+Comoros	1975	Modern Republic
+Congo	1960	Early Republic
+Congo, The Democratic Republic of the	1960	Early Republic
+C“te d?Ivoire	1960	Early Republic
+Djibouti	1977	Modern Republic
+Egypt	1922	Old Republic
+Equatorial Guinea	1968	Early Republic
+Eritrea	1993	Modern Republic
+Ethiopia	-1000	Old Republic
+Gabon	1960	Early Republic
+Gambia	1965	Early Republic
+Ghana	1957	Early Republic
+Guinea	1958	Early Republic
+Guinea-Bissau	1974	Early Republic
+Kenya	1963	Early Republic
+Lesotho	1966	Early Constitutional Monarchy
+Liberia	1847	Old Republic
+Libyan Arab Jamahiriya	1951	Early Socialistic State
+Madagascar	1960	Early Federal Republic
+Malawi	1964	Early Republic
+Mali	1960	Early Republic
+Mauritania	1960	Early Republic
+Mauritius	1968	Early Republic
+Mayotte	NULL	n/a
+Morocco	1956	Early Constitutional Monarchy
+Mozambique	1975	Modern Republic
+Namibia	1990	Modern Republic
+Niger	1960	Early Republic
+Nigeria	1960	Early Large Federal Republic
+R‚union	NULL	n/a
+Rwanda	1962	Early Republic
+Saint Helena	NULL	n/a
+Sao Tome and Principe	1975	Modern Republic
+Senegal	1960	Early Republic
+Seychelles	1976	Modern Republic
+Sierra Leone	1961	Early Republic
+Somalia	1960	Early Republic
+South Africa	1910	Old Republic
+Sudan	1956	Early Islamic Republic
+Swaziland	1968	Early Monarchy
+Tanzania	1961	Early Republic
+Togo	1960	Early Republic
+Tunisia	1956	Early Republic
+Uganda	1962	Early Republic
+Western Sahara	NULL	n/a
+Zambia	1964	Early Republic
+Zimbabwe	1980	Modern Republic

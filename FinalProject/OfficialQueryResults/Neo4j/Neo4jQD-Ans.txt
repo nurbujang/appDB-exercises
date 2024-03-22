@@ -1,0 +1,5 @@
+EID, Name, Salary
+"E05", "John Smith", 59992.32
+"E06", "Anne Smith", 59992.32
+"E10", "Charlie Taylor", 54000.02
+"E11", "Johnathon O'Brien", 53000.98

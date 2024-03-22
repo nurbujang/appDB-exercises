@@ -1,0 +1,251 @@
+Name	District	Population	CityType
+µguas Lindas de Goi s	Goi s	89,200	Big
+Angra dos Reis	Rio de Janeiro	96,864	Big
+Araguari	Minas Gerais	98,399	Big
+Bacabal	MaranhÆo	93,121	Big
+Barra do Pira¡	Rio de Janeiro	89,388	Big
+Bento Gon‡alves	Rio Grande do Sul	89,254	Big
+Birigui	SÆo Paulo	94,685	Big
+Camet 	Par 	92,779	Big
+Campo Largo	Paran 	91,203	Big
+Conselheiro Lafaiete	Minas Gerais	97,507	Big
+Coronel Fabriciano	Minas Gerais	95,933	Big
+Corumb 	Mato Grosso do Sul	90,111	Big
+Crato	Cear 	98,965	Big
+Eun polis	Bahia	96,610	Big
+Gua¡ba	Rio Grande do Sul	92,224	Big
+Ituiutaba	Minas Gerais	90,507	Big
+Jacobina	Bahia	96,131	Big
+Ji-Paran 	Rond“nia	93,346	Big
+Ourinhos	SÆo Paulo	96,291	Big
+Palho‡a	Santa Catarina	89,465	Big
+Parnamirim	Rio Grande do Norte	96,210	Big
+Passos	Minas Gerais	98,570	Big
+Patos	Para¡ba	90,519	Big
+Paulo Afonso	Bahia	97,291	Big
+Pinhais	Paran 	98,198	Big
+Po 	SÆo Paulo	89,236	Big
+Salto	SÆo Paulo	96,348	Big
+Santana do Livramento	Rio Grande do Sul	91,779	Big
+SÆo Jos‚ de Ribamar	MaranhÆo	98,318	Big
+SÆo Louren‡o da Mata	Pernambuco	91,999	Big
+SertÆozinho	SÆo Paulo	98,140	Big
+Tatu¡	SÆo Paulo	93,897	Big
+Toledo	Paran 	99,387	Big
+Votorantim	SÆo Paulo	91,777	Big
+Abaetetuba	Par 	111,258	Huge
+Alagoinhas	Bahia	126,820	Huge
+Alvorada	Rio Grande do Sul	175,574	Huge
+Americana	SÆo Paulo	177,409	Huge
+Ananindeua	Par 	400,940	Huge
+An polis	Goi s	282,197	Huge
+Aparecida de Goiƒnia	Goi s	324,662	Huge
+Apucarana	Paran 	105,114	Huge
+Aracaju	Sergipe	445,555	Huge
+Ara‡atuba	SÆo Paulo	169,303	Huge
+Aragua¡na	Tocantins	114,948	Huge
+Arapiraca	Alagoas	178,988	Huge
+Araraquara	SÆo Paulo	174,381	Huge
+Araras	SÆo Paulo	101,046	Huge
+Atibaia	SÆo Paulo	100,356	Huge
+Bag‚	Rio Grande do Sul	120,793	Huge
+Barbacena	Minas Gerais	113,079	Huge
+Barra Mansa	Rio de Janeiro	168,953	Huge
+Barreiras	Bahia	127,801	Huge
+Barretos	SÆo Paulo	104,156	Huge
+Barueri	SÆo Paulo	208,426	Huge
+Bauru	SÆo Paulo	313,670	Huge
+Belford Roxo	Rio de Janeiro	425,194	Huge
+Betim	Minas Gerais	302,108	Huge
+Blumenau	Santa Catarina	244,379	Huge
+Boa Vista	Roraima	167,185	Huge
+Botucatu	SÆo Paulo	107,663	Huge
+Bragan‡a Paulista	SÆo Paulo	116,929	Huge
+Cabo de Santo Agostinho	Pernambuco	149,964	Huge
+Cabo Frio	Rio de Janeiro	119,503	Huge
+Cachoeirinha	Rio Grande do Sul	103,240	Huge
+Cachoeiro de Itapemirim	Esp¡rito Santo	155,024	Huge
+Cama‡ari	Bahia	149,146	Huge
+Camaragibe	Pernambuco	118,968	Huge
+Campina Grande	Para¡ba	352,497	Huge
+Campos dos Goytacazes	Rio de Janeiro	398,418	Huge
+Canoas	Rio Grande do Sul	294,125	Huge
+Carapicu¡ba	SÆo Paulo	357,552	Huge
+Cariacica	Esp¡rito Santo	319,033	Huge
+Caruaru	Pernambuco	244,247	Huge
+Cascavel	Paran 	237,510	Huge
+Castanhal	Par 	127,634	Huge
+Catanduva	SÆo Paulo	107,761	Huge
+Caucaia	Cear 	238,738	Huge
+Caxias	MaranhÆo	133,980	Huge
+Caxias do Sul	Rio Grande do Sul	349,581	Huge
+Chapec¢	Santa Catarina	144,158	Huge
+Cod¢	MaranhÆo	103,153	Huge
+Colatina	Esp¡rito Santo	107,354	Huge
+Colombo	Paran 	177,764	Huge
+Cotia	SÆo Paulo	140,042	Huge
+Crici£ma	Santa Catarina	167,661	Huge
+CubatÆo	SÆo Paulo	102,372	Huge
+Cuiab 	Mato Grosso	453,813	Huge
+Diadema	SÆo Paulo	335,078	Huge
+Divin¢polis	Minas Gerais	185,047	Huge
+Dourados	Mato Grosso do Sul	164,716	Huge
+Embu	SÆo Paulo	222,223	Huge
+Feira de Santana	Bahia	479,992	Huge
+Ferraz de Vasconcelos	SÆo Paulo	139,283	Huge
+Florian¢polis	Santa Catarina	281,928	Huge
+Foz do Igua‡u	Paran 	259,425	Huge
+Franca	SÆo Paulo	290,139	Huge
+Francisco Morato	SÆo Paulo	121,197	Huge
+Franco da Rocha	SÆo Paulo	108,964	Huge
+Garanhuns	Pernambuco	114,603	Huge
+Governador Valadares	Minas Gerais	231,724	Huge
+Gravata¡	Rio Grande do Sul	223,011	Huge
+Guarapuava	Paran 	160,510	Huge
+Guaratinguet 	SÆo Paulo	103,433	Huge
+Guaruj 	SÆo Paulo	237,206	Huge
+Hortolƒndia	SÆo Paulo	135,755	Huge
+Ibirit‚	Minas Gerais	125,982	Huge
+Ilh‚us	Bahia	254,970	Huge
+Imperatriz	MaranhÆo	224,564	Huge
+Indaiatuba	SÆo Paulo	135,968	Huge
+Ipatinga	Minas Gerais	206,338	Huge
+Itabira	Minas Gerais	102,217	Huge
+Itabora¡	Rio de Janeiro	173,977	Huge
+Itabuna	Bahia	182,148	Huge
+Itaituba	Par 	101,320	Huge
+Itaja¡	Santa Catarina	145,197	Huge
+Itapecerica da Serra	SÆo Paulo	126,672	Huge
+Itapetininga	SÆo Paulo	119,391	Huge
+Itapevi	SÆo Paulo	150,664	Huge
+Itaquaquecetuba	SÆo Paulo	270,874	Huge
+Itu	SÆo Paulo	132,736	Huge
+Jacare¡	SÆo Paulo	170,356	Huge
+Jaragu  do Sul	Santa Catarina	102,580	Huge
+Ja£	SÆo Paulo	109,965	Huge
+Jequi‚	Bahia	179,128	Huge
+Joinville	Santa Catarina	428,011	Huge
+Juazeiro	Bahia	201,073	Huge
+Juazeiro do Norte	Cear 	199,636	Huge
+Juiz de Fora	Minas Gerais	450,288	Huge
+Jund¡a¡	SÆo Paulo	296,127	Huge
+Lages	Santa Catarina	139,570	Huge
+Lauro de Freitas	Bahia	109,236	Huge
+Limeira	SÆo Paulo	245,497	Huge
+Linhares	Esp¡rito Santo	106,278	Huge
+Londrina	Paran 	432,257	Huge
+Luziƒnia	Goi s	125,597	Huge
+Maca‚	Rio de Janeiro	125,597	Huge
+Macap 	Amap 	256,033	Huge
+Mag‚	Rio de Janeiro	196,147	Huge
+Marab 	Par 	167,795	Huge
+Maracana£	Cear 	162,022	Huge
+Mar¡lia	SÆo Paulo	188,691	Huge
+Maring 	Paran 	286,461	Huge
+Mau 	SÆo Paulo	375,055	Huge
+Moji das Cruzes	SÆo Paulo	339,194	Huge
+Moji-Gua‡u	SÆo Paulo	123,782	Huge
+Montes Claros	Minas Gerais	286,058	Huge
+Mossor¢	Rio Grande do Norte	214,901	Huge
+Nil¢polis	Rio de Janeiro	153,383	Huge
+Niter¢i	Rio de Janeiro	459,884	Huge
+Nossa Senhora do Socorro	Sergipe	131,351	Huge
+Nova Friburgo	Rio de Janeiro	170,697	Huge
+Novo Hamburgo	Rio Grande do Sul	239,940	Huge
+Olinda	Pernambuco	354,732	Huge
+Palmas	Tocantins	121,919	Huge
+Paranagu 	Paran 	126,076	Huge
+Parna¡ba	Piau¡	129,756	Huge
+Passo Fundo	Rio Grande do Sul	166,343	Huge
+Patos de Minas	Minas Gerais	119,262	Huge
+Paulista	Pernambuco	248,473	Huge
+Pelotas	Rio Grande do Sul	315,415	Huge
+Petrolina	Pernambuco	210,540	Huge
+Petr¢polis	Rio de Janeiro	279,183	Huge
+Pindamonhangaba	SÆo Paulo	121,904	Huge
+Piracicaba	SÆo Paulo	319,104	Huge
+Po‡os de Caldas	Minas Gerais	129,683	Huge
+Ponta Grossa	Paran 	268,013	Huge
+Porto Velho	Rond“nia	309,750	Huge
+Pouso Alegre	Minas Gerais	100,028	Huge
+Praia Grande	SÆo Paulo	168,434	Huge
+Presidente Prudente	SÆo Paulo	185,340	Huge
+Queimados	Rio de Janeiro	115,020	Huge
+Resende	Rio de Janeiro	100,627	Huge
+RibeirÆo das Neves	Minas Gerais	232,685	Huge
+RibeirÆo Pires	SÆo Paulo	108,121	Huge
+RibeirÆo Preto	SÆo Paulo	473,276	Huge
+Rio Branco	Acre	259,537	Huge
+Rio Claro	SÆo Paulo	163,551	Huge
+Rio Grande	Rio Grande do Sul	182,222	Huge
+Rio Verde	Goi s	107,755	Huge
+Rondon¢polis	Mato Grosso	155,115	Huge
+Sabar 	Minas Gerais	107,781	Huge
+Santa B rbara dïOeste	SÆo Paulo	171,657	Huge
+Santa Cruz do Sul	Rio Grande do Sul	106,734	Huge
+Santa Luzia	Minas Gerais	164,704	Huge
+Santa Maria	Rio Grande do Sul	238,473	Huge
+Santa Rita	Para¡ba	113,135	Huge
+Santar‚m	Par 	241,771	Huge
+Santos	SÆo Paulo	408,748	Huge
+SÆo Caetano do Sul	SÆo Paulo	133,321	Huge
+SÆo Carlos	SÆo Paulo	187,122	Huge
+SÆo JoÆo de Meriti	Rio de Janeiro	440,052	Huge
+SÆo Jos‚	Santa Catarina	155,105	Huge
+SÆo Jos‚ do Rio Preto	SÆo Paulo	351,944	Huge
+SÆo Jos‚ dos Pinhais	Paran 	196,884	Huge
+SÆo Leopoldo	Rio Grande do Sul	189,258	Huge
+SÆo Vicente	SÆo Paulo	286,848	Huge
+Sapucaia do Sul	Rio Grande do Sul	120,217	Huge
+Serra	Esp¡rito Santo	302,666	Huge
+Sete Lagoas	Minas Gerais	182,984	Huge
+Sobral	Cear 	146,005	Huge
+Sorocaba	SÆo Paulo	466,823	Huge
+Sumar‚	SÆo Paulo	186,205	Huge
+Suzano	SÆo Paulo	195,434	Huge
+TaboÆo da Serra	SÆo Paulo	197,550	Huge
+Taubat‚	SÆo Paulo	229,130	Huge
+Teixeira de Freitas	Bahia	108,441	Huge
+Te¢filo Otoni	Minas Gerais	124,489	Huge
+Teres¢polis	Rio de Janeiro	128,079	Huge
+Timon	MaranhÆo	125,812	Huge
+Uberaba	Minas Gerais	249,225	Huge
+Uberlƒndia	Minas Gerais	487,222	Huge
+Uruguaiana	Rio Grande do Sul	126,305	Huge
+Varginha	Minas Gerais	108,314	Huge
+V rzea Grande	Mato Grosso	214,435	Huge
+ViamÆo	Rio Grande do Sul	207,557	Huge
+Vila Velha	Esp¡rito Santo	318,758	Huge
+Vit¢ria	Esp¡rito Santo	270,626	Huge
+Vit¢ria da Conquista	Bahia	253,587	Huge
+Vit¢ria de Santo AntÆo	Pernambuco	113,595	Huge
+Volta Redonda	Rio de Janeiro	240,315	Huge
+Bel‚m	Par 	1,186,926	Mega
+Belo Horizonte	Minas Gerais	2,139,125	Mega
+Bras¡lia	Distrito Federal	1,969,868	Mega
+Campinas	SÆo Paulo	950,043	Mega
+Campo Grande	Mato Grosso do Sul	649,593	Mega
+Contagem	Minas Gerais	520,801	Mega
+Curitiba	Paran 	1,584,232	Mega
+Duque de Caxias	Rio de Janeiro	746,758	Mega
+Fortaleza	Cear 	2,097,757	Mega
+Goiƒnia	Goi s	1,056,330	Mega
+Guarulhos	SÆo Paulo	1,095,874	Mega
+JaboatÆo dos Guararapes	Pernambuco	558,680	Mega
+JoÆo Pessoa	Para¡ba	584,029	Mega
+Macei¢	Alagoas	786,288	Mega
+Manaus	Amazonas	1,255,049	Mega
+Natal	Rio Grande do Norte	688,955	Mega
+Nova Igua‡u	Rio de Janeiro	862,225	Mega
+Osasco	SÆo Paulo	659,604	Mega
+Porto Alegre	Rio Grande do Sul	1,314,032	Mega
+Recife	Pernambuco	1,378,087	Mega
+Rio de Janeiro	Rio de Janeiro	5,598,953	Mega
+Salvador	Bahia	2,302,832	Mega
+Santo Andr‚	SÆo Paulo	630,073	Mega
+SÆo Bernardo do Campo	SÆo Paulo	723,132	Mega
+SÆo Gon‡alo	Rio de Janeiro	869,254	Mega
+SÆo Jos‚ dos Campos	SÆo Paulo	515,553	Mega
+SÆo Lu¡s	MaranhÆo	837,588	Mega
+SÆo Paulo	SÆo Paulo	9,968,485	Mega
+Teresina	Piau¡	691,942	Mega

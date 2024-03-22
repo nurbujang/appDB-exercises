@@ -1,0 +1,36 @@
+Name	Continent	LifeExpectancy
+Kuwait	Asia	76.1
+Taiwan	Asia	76.4
+Cyprus	Asia	76.7
+Jordan	Asia	77.4
+Israel	Asia	78.6
+Hong Kong	Asia	79.5
+Singapore	Asia	80.1
+Japan	Asia	80.7
+Macao	Asia	81.6
+Jamaica	North America	75.2
+Virgin Islands, British	North America	75.4
+Panama	North America	75.5
+Puerto Rico	North America	75.6
+Costa Rica	North America	75.8
+Anguilla	North America	76.1
+Cuba	North America	76.2
+Bermuda	North America	76.9
+Guadeloupe	North America	77.0
+United States	North America	77.1
+Saint Pierre and Miquelon	North America	77.6
+Montserrat	North America	78.0
+Virgin Islands, U.S.	North America	78.1
+Martinique	North America	78.3
+Aruba	North America	78.4
+Cayman Islands	North America	78.9
+Canada	North America	79.4
+Libyan Arab Jamahiriya	Africa	75.5
+Saint Helena	Africa	76.8
+Northern Mariana Islands	Oceania	75.5
+Guam	Oceania	77.8
+New Zealand	Oceania	77.8
+Australia	Oceania	79.8
+Uruguay	South America	75.2
+Chile	South America	75.7
+French Guiana	South America	76.1

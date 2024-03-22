@@ -1,0 +1,9 @@
+ID	Name	latitude	longitude
+23	Dordrecht	51.8133(N)	4.6901(E)
+130	Sydney	33.8688(S)	151.2093(E)
+443	Gua°ba	30.1091(S)	51.3238(W)
+1023	Tanjung Pinang	0.0000(S)	104.4665(E)
+1535	Nagoya	35.1814(N)	136.9064(E)
+1678	Tama	35.6370(N)	139.4463(E)
+2133	Suzhou	31.2990(N)	120.5853(E)
+3245	ZÅrich	49.1805(N)	2.1032(E)

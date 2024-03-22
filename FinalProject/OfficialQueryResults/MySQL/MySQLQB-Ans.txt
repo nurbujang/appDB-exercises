@@ -1,0 +1,42 @@
+Name	Pop
+Argentina	19996563
+Australia	11313666
+Bangladesh	8569906
+Brazil	85876862
+Canada	12673840
+Chile	9717970
+China	175953614
+Colombia	20250990
+Congo, The Democratic Republic of the	9864615
+Egypt	20083079
+France	9244494
+Germany	26245483
+India	123298526
+Indonesia	37485695
+Iran	26032990
+Iraq	8926041
+Italy	15087019
+Japan	77965107
+Mexico	59752521
+Morocco	8757562
+Myanmar	6203000
+Nigeria	17366900
+North Korea	6476751
+Pakistan	31546745
+Peru	12147242
+Philippines	30934791
+Poland	11687431
+Romania	7469006
+Russian Federation	69150700
+Saudi Arabia	10636700
+South Africa	15196370
+South Korea	38999893
+Spain	16669189
+Taiwan	13569336
+Thailand	7953161
+Turkey	28327028
+Ukraine	20074000
+United Kingdom	22436673
+United States	78625774
+Venezuela	12251091
+Vietnam	9364813
